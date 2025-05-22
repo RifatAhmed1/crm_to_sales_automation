@@ -16,6 +16,7 @@
         "views/crm_lead_views.xml",
         "reports/lead_stock_report.xml",
     ],
+    'images':["static/description/banner.png"],
     # 'assets': {
     #           'web.assets_backend': [
     #               'lead_stock_manager/static/src/**/*'
